@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.5c203b32.css",
-    "main.js": "/portfolio/static/js/main.849c1d94.js",
-    "static/js/415.4d6acbeb.chunk.js": "/portfolio/static/js/415.4d6acbeb.chunk.js",
-    "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
-    "static/media/home-main.svg": "/portfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
-    "static/media/about.png": "/portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
-    "static/media/Safwan-Resume.pdf": "/portfolio/static/media/Safwan-Resume.d997aa6ac977ad6bf571.pdf",
-    "static/media/project-5.jpg": "/portfolio/static/media/project-5.5b10dc8e08e2bfc54f15.jpg",
-    "static/media/project-1.jpg": "/portfolio/static/media/project-1.30f875fc22ac21862e9d.jpg",
-    "static/media/home-bg.jpg": "/portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
-    "static/media/project-4.jpg": "/portfolio/static/media/project-4.0b2fe0a8373faa3da5cf.jpg",
-    "static/media/project-2.jpg": "/portfolio/static/media/project-2.74cced7eb93504a7ee07.jpg",
-    "static/media/logo.png": "/portfolio/static/media/logo.4935420f6d7390ce2331.png",
-    "static/media/project-3.jpg": "/portfolio/static/media/project-3.097aa1c8e6578c0ff281.jpg",
-    "static/media/avatar.svg": "/portfolio/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
-    "static/media/pre.svg": "/portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
-    "index.html": "/portfolio/index.html",
-    "main.5c203b32.css.map": "/portfolio/static/css/main.5c203b32.css.map",
-    "main.849c1d94.js.map": "/portfolio/static/js/main.849c1d94.js.map",
-    "415.4d6acbeb.chunk.js.map": "/portfolio/static/js/415.4d6acbeb.chunk.js.map",
-    "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/Portfolio/static/css/main.4e558664.css",
+    "main.js": "/Portfolio/static/js/main.05cfc89f.js",
+    "static/js/415.4d6acbeb.chunk.js": "/Portfolio/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/home-main.svg": "/Portfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/Portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/Safwan-Resume.pdf": "/Portfolio/static/media/Safwan-Resume.d997aa6ac977ad6bf571.pdf",
+    "static/media/project-5.jpg": "/Portfolio/static/media/project-5.5b10dc8e08e2bfc54f15.jpg",
+    "static/media/project-1.jpg": "/Portfolio/static/media/project-1.30f875fc22ac21862e9d.jpg",
+    "static/media/home-bg.jpg": "/Portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/project-4.jpg": "/Portfolio/static/media/project-4.0b2fe0a8373faa3da5cf.jpg",
+    "static/media/project-2.jpg": "/Portfolio/static/media/project-2.74cced7eb93504a7ee07.jpg",
+    "static/media/logo.png": "/Portfolio/static/media/logo.4935420f6d7390ce2331.png",
+    "static/media/project-3.jpg": "/Portfolio/static/media/project-3.097aa1c8e6578c0ff281.jpg",
+    "static/media/avatar.svg": "/Portfolio/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/pre.svg": "/Portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/Portfolio/index.html",
+    "main.4e558664.css.map": "/Portfolio/static/css/main.4e558664.css.map",
+    "main.05cfc89f.js.map": "/Portfolio/static/js/main.05cfc89f.js.map",
+    "415.4d6acbeb.chunk.js.map": "/Portfolio/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5c203b32.css",
-    "static/js/main.849c1d94.js"
+    "static/css/main.4e558664.css",
+    "static/js/main.05cfc89f.js"
   ]
 }
